@@ -41,7 +41,7 @@ print("가방" > "하마")
 # False
 
 
-# ! (1) 논리 연산자
+# ! (2) 논리 연산자
 
 # ? 1) not 연산자
 print(not True)
@@ -64,7 +64,7 @@ print(False or False)
 # False
 
 
-# ! (2) if 조건문
+# ! (3) if 조건문
 number = int(5)
 
 if number > 0:
